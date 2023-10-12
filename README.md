@@ -3,9 +3,14 @@
 ![Linkes and resources](https://github.com/ClubToCode/Open-Source-Resources/assets/97173586/9279de1a-6ad2-4643-83a1-99351ea028b5)
 
 ## 1. Git, Github Resources
->[NOTE] this section includes resources for Git, Github
 
+
+  ### Git Installation, Create GitHub account and Local setup
+    > Steps for getting git, github and vs code connected to your github account
+     
+  
   ### Git Important Commands:-
+  
    
   ### Learn Git
   ### Git Cheatsheat
