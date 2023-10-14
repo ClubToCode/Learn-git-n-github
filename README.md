@@ -22,3 +22,9 @@ git config --global user.email yourmailhere@example.com
 git config --get user.name
 git config --get user.email
 ```
+
+### Learn Git
+- [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
+- 
+
+## Important Git commands
