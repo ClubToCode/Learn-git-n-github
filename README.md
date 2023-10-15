@@ -7,7 +7,7 @@
 - Download Git in your system : [👉Download from here👈](https://git-scm.com/downloads).
   
 ### 🧵 Setup Git
-For Git to work properly, we need to let it know who we are so that it can link a local Git user (you) to GitHub. When working on a team, this allows people to see what you have committed and who committed each line of code.
+- For Git to work properly, we need to let it know who we are so that it can link a local Git user (you) to GitHub. When working on a team, this allows people to see what you have committed and who committed each line of code.
 
 - Open any terminal or command prompt and enter the below commands. The commands below will configure Git. Be sure to enter your own information inside the quotes.
 
@@ -15,6 +15,7 @@ For Git to work properly, we need to let it know who we are so that it can link 
 git config --global user.name usernamehere
 git config --global user.email yourmailhere@example.com
 ```
+
 
 - To verify that things are working properly, enter these commands and verify whether the output matches your name and email address.
 
