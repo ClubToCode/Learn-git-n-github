@@ -87,3 +87,16 @@ git config --get user.email
 3. [Markdown Guide for `Github README.md`](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
+## 🧪 Github Terminologies like Fork, Pull-request, Isssue, Branches, Remote etc ....
+
+- ## 👇GitHub forks, git branch and remotes explained - In `English`
+
+   [![Learn-git-n-github](https://img.youtube.com/vi/FnxFwyzm4Z4/0.jpg)](https://youtu.be/FnxFwyzm4Z4?si=WxO40pp0MFbTT5Gy)
+
+
+- ## 👇Git-Branchs in detail - In `English`
+
+   [![Learn-git-n-github](https://img.youtube.com/vi/e2IbNHi4uCI/0.jpg)](https://youtu.be/e2IbNHi4uCI?si=seBg6kS-DhfLOgvp)
+
+
+
