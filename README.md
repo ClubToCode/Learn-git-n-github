@@ -30,25 +30,24 @@ git config --get user.email
 ##  💎Video Resource  
 > [!IMPORTANT]
 > ✅ Must watch Learn Everything about Git & Github here
-- ## Git and GitHub complete guide - In `English`
+- ## 👇Git and GitHub complete guide - In `English`
 
-	[
-![Learn-git-n-github](https://img.youtube.com/vi/apGV9Kg7ics/0.jpg)](https://youtu.be/apGV9Kg7ics?si=ds2jkLxZtPq_BOq2)
+   [![Learn-git-n-github](https://img.youtube.com/vi/apGV9Kg7ics/0.jpg)](https://youtu.be/apGV9Kg7ics?si=ds2jkLxZtPq_BOq2)
 
-- ## Git and GitHub complete guide - In `Hindi`
+- ## 👇Git and GitHub complete guide - In `Hindi`
 
-	[
-![Learn-git-n-github](https://img.youtube.com/vi/8pkyCyBZDnY/0.jpg)](https://youtube.com/playlist?list=PLwGdqUZWnOp2Hjzqctj2kER5I0oyAGXOf&si=Ww_m5XXV3fMpuJyy)
+   [![Learn-git-n-github](https://img.youtube.com/vi/8pkyCyBZDnY/0.jpg)](https://youtube.com/playlist?list=PLwGdqUZWnOp2Hjzqctj2kER5I0oyAGXOf&si=Ww_m5XXV3fMpuJyy)
 
-- ## How to contribute to open source within 10 minutes - start now!- In `English`
+- ## 👇How to contribute to open source within 10 minutes - start now!- In `English`
   
    [![Learn-git-n-github](https://img.youtube.com/vi/8B_JWf7pG20/0.jpg)](https://youtu.be/8B_JWf7pG20?si=DsuW0nDcHp32VpRM)
 
-- ##  How to Get Started with Open Source In `English`
+- ## 👇How to Get Started with Open Source In `English`
 
-	[![Learn-git-n-github](https://img.youtube.com/vi/MkaIrwOlP6Y/0.jpg)](https://youtu.be/MkaIrwOlP6Y?si=nPoyL7cLGXCzBEnS)
+   [![Learn-git-n-github](https://img.youtube.com/vi/MkaIrwOlP6Y/0.jpg)](https://youtu.be/MkaIrwOlP6Y?si=nPoyL7cLGXCzBEnS)
+---
 
-# 📑 Git Importantb commands 
+## 📑 Git Importantb commands 
 
 - `git init` - Initializes a Git repository in the current directory. This is the first command you run when starting a new Git project.
 
@@ -72,5 +71,9 @@ git config --get user.email
 
 - `git diff` - Shows the differences between commits, the staging area, and your current working directory.
 
-# 📒 Git CheetSheats:
+## 📒 Git CheatSheets:
+
+1. [Git-Cheatsheet by Hacktoberfest.pdf](https://github.com/ClubToCode/Learn-git-n-github/files/12909428/hf10_git_cheat_sheet.pdf)
+2. [Git cheatsheets and manuals in `Hindi` and `English`](https://training.github.com/)
+
 
