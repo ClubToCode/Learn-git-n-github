@@ -23,8 +23,28 @@ git config --get user.name
 git config --get user.email
 ```
 
-### Learn Git
-- [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
-- 
+# Learn Git and Open-Source
 
-## Important Git commands
+- [Git Basics, Must go through this article](https://www.theodinproject.com/lessons/foundations-git-basics)
+
+##  💎Video Resource  
+> [!IMPORTANT]
+> ✅ Must watch Learn Everything about Git & Github here
+- ## Git and GitHub complete guide - In `English`
+
+	[
+![Learn-git-n-github](https://img.youtube.com/vi/apGV9Kg7ics/0.jpg)](https://youtu.be/apGV9Kg7ics?si=ds2jkLxZtPq_BOq2)
+
+- ## Git and GitHub complete guide - In `Hindi`
+
+	[
+![Learn-git-n-github](https://img.youtube.com/vi/8pkyCyBZDnY/0.jpg)](https://youtube.com/playlist?list=PLwGdqUZWnOp2Hjzqctj2kER5I0oyAGXOf&si=Ww_m5XXV3fMpuJyy)
+
+- ## How to contribute to open source within 10 minutes - start now!- In `English`
+  
+   [![Learn-git-n-github](https://img.youtube.com/vi/8B_JWf7pG20/0.jpg)](https://youtu.be/8B_JWf7pG20?si=DsuW0nDcHp32VpRM)
+
+- ##  How to Get Started with Open Source In `English`
+
+	[	![Learn-git-n-github](https://img.youtube.com/vi/MkaIrwOlP6Y/0.jpg)](https://youtu.be/MkaIrwOlP6Y?si=nPoyL7cLGXCzBEnS)
+
