@@ -38,6 +38,10 @@ git config --get user.email
 
    [![Learn-git-n-github](https://img.youtube.com/vi/8pkyCyBZDnY/0.jpg)](https://youtube.com/playlist?list=PLwGdqUZWnOp2Hjzqctj2kER5I0oyAGXOf&si=Ww_m5XXV3fMpuJyy)
 
+- ## Complete Guide to Open Source - How to Contribute `Must Watch`
+
+   [![Learn-git-n-github](https://img.youtube.com/vi/yzeVMecydCE/0.jpg)](https://youtu.be/yzeVMecydCE?si=Y7-Dl9kwwwGyAZ7b)
+
 - ## 👇How to contribute to open source within 10 minutes - start now!- In `English`
   
    [![Learn-git-n-github](https://img.youtube.com/vi/8B_JWf7pG20/0.jpg)](https://youtu.be/8B_JWf7pG20?si=DsuW0nDcHp32VpRM)
@@ -45,6 +49,11 @@ git config --get user.email
 - ## 👇How to Get Started with Open Source In `English`
 
    [![Learn-git-n-github](https://img.youtube.com/vi/MkaIrwOlP6Y/0.jpg)](https://youtu.be/MkaIrwOlP6Y?si=nPoyL7cLGXCzBEnS)
+
+- ## 👇 Markdown Crash Course
+
+   [![Learn-git-n-github](https://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](https://youtu.be/HUBNt18RFbo?si=L6Y0uzQMwygMHe_6)
+ 
 ---
 
 ## 📑 Git Importantb commands 
@@ -75,5 +84,6 @@ git config --get user.email
 
 1. [Git-Cheatsheet by Hacktoberfest.pdf](https://github.com/ClubToCode/Learn-git-n-github/files/12909428/hf10_git_cheat_sheet.pdf)
 2. [Git cheatsheets and manuals in `Hindi` and `English`](https://training.github.com/)
+3. [Markdown Guide for `Github README.md`](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
