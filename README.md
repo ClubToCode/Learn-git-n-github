@@ -2,8 +2,8 @@
 ![Linkes and resources](https://github.com/ClubToCode/Learn-git-n-github/assets/97173586/84811a49-7418-4087-9360-c07a36975e7e)
 
 ## ✅ GitHub account setup and Connecting Git to your account: 
-- First, create a `GitHub account` by `Sign in` via your email at this [Link](https://github.com/).
-    > While creating your account remember that you have to use your own as the `username`, with some number
+- First, create a `GitHub account` by `Sign in` via your email at this [Link](https://github.com/). If you already had an account then start with the `setup step👇`
+    > While creating your account remember that you have to use your own name as the `username`.
 - Download Git in your system : [👉Download from here👈](https://git-scm.com/downloads).
   
 ### 🧵 Setup Git
